@@ -1,5 +1,6 @@
 # FROM mcr.microsoft.com/azure-storage/azurite:3.11.0
-FROM mcr.microsoft.com/azure-storage/azurite:3.25.0
+# FROM mcr.microsoft.com/azure-storage/azurite:3.25.0
+FROM mcr.microsoft.com/azure-storage/azurite:3.26.0
 
 ENV NODE_PATH /usr/local/lib/node_modules
 
